@@ -1,0 +1,1 @@
+071638229617.dkr.ecr.ap-south-1.amazonaws.com/cloudprojectcontainer:latest
